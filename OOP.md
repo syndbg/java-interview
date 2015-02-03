@@ -16,7 +16,7 @@
 
 1. What is Inheritence?
 
-1. Is multiple inheritence possible? If yes, what are the benefits? If not, why not?
+1. Is multiple inheritence possible? If yes, what are the benefits? If no, why not?
 
 1. What is Polymorphism?
 
@@ -27,3 +27,9 @@
 1. What is a Sub Class?
 
 1. What is a Constructor?
+
+1. What is a POJO?
+
+1. What is JavaBean?
+
+1. Differencnes between POJO and JavaBean?
